@@ -1,6 +1,7 @@
 payload:
   # Custom
   - DOMAIN-SUFFIX,merlinblog.xyz
+  - DOMAIN-SUFFIX,udn.com
   # - DOMAIN-SUFFIX,googletraveladservices.com
   # - DOMAIN,clientservices.googleapis.com
   # - DOMAIN,dl.google.com
