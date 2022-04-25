@@ -2,6 +2,10 @@ payload:
   # Custom
   - DOMAIN-SUFFIX,merlinblog.xyz
   - DOMAIN-SUFFIX,udn.com
+  - DOMAIN-SUFFIX,thenewslens.com
+  - DOMAIN-KEYWORD,appledaily
+  - DOMAIN-SUFFIX,mirrormedia.mg
+  - DOMAIN-SUFFIX,matters.news
   # - DOMAIN-SUFFIX,googletraveladservices.com
   # - DOMAIN,clientservices.googleapis.com
   # - DOMAIN,dl.google.com
